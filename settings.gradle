@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "ServiceBoundMusic"
+rootProject.name = "ServiceBoundMusic_thebao"

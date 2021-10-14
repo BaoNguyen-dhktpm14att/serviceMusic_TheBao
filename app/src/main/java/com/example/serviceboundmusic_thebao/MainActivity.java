@@ -1,4 +1,4 @@
-package com.example.serviceboundmusic;
+package com.example.serviceboundmusic_thebao;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,7 +11,7 @@ import android.os.IBinder;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
-import com.example.serviceboundmusic.MyService.MyBinder;
+import com.example.serviceboundmusic_thebao.MyService.MyBinder;
 
 public class MainActivity extends AppCompatActivity {
 
